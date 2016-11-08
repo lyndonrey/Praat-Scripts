@@ -12,4 +12,13 @@ Parameters:
 
 Running in terminal:
 Use the following command:
-	praat --run *formant interval inPath* 
+	praat --run *formant interval inPath*
+
+Get the intensity (dB) and write it to the terminal
+---
+Parameters:
+- positive interval: The analysis frame (same as above)
+- sentence inPath: The full path as well (same as above)
+
+Running in terminal:
+	praat --run *interval inPath* 

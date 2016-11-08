@@ -2,7 +2,6 @@ form Get Specified Formant
 	positive Formant
 	positive Interval
 	sentence InPath
-	sentence OutPath
 endform
 
 ###############################################################################
